@@ -1,0 +1,15 @@
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\can you dig it\Documents\Visual Studio 2012\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part1\day3\homework2_shane\ConsoleApplication16\ConsoleApplication16\obj\Debug\calculator.csprojResolveAssemblyReference.cache
